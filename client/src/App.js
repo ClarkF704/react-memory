@@ -56,7 +56,7 @@ export default function App() {
           </div>
         </div>
       </div>
-      <div className="container">
+      <div className="container" id="boarder">
         <div className="col-lg-12">
           {/* Game goes below */}
         <Board

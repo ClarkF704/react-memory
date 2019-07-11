@@ -1,7 +1,18 @@
 .mainHead{
   text-align:center;
+  font-family: 'Bahianita', cursive;
 }
 
 .desc{
   text-align:center;
+  margin-top:15px;
+  font-family: 'Bahianita', cursive;
+}
+#boarder{
+  background-color:#fb8b67;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+body{
+  background-color:#4abdac;
 }
